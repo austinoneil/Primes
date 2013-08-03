@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_about_this_app">AboutThisApp</string>
+    <string name="title_activity_is_it_prime">IsItPrime</string>
+    <string name="output"></string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_first_nprimes">FirstNPrimes</string>
+    <string name="title_activity_prime_factorization">PrimeFactorization</string>
+
+</resources>
